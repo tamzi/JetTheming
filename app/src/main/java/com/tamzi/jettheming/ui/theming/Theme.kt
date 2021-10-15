@@ -1,4 +1,4 @@
-package com.tamzi.jettheming.ui.theme
+package com.tamzi.jettheming.ui.theming
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
