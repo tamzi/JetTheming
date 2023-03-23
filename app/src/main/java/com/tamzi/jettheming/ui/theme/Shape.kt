@@ -1,4 +1,4 @@
-package com.tamzi.jettheming.ui.theming
+package com.tamzi.jettheming.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
