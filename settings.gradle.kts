@@ -12,6 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "JetTheming"
-include ':app'
-include ':jetTheme'
+rootProject.name = ("JetTheming")
+include(":app")
+include(":jetTheme")
+
